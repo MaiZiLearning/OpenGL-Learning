@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/07/20 10:35:31。
+     1>项目“E:\OPENGL学习\工程文件\绘制三角形\OpenGLTutorialProject\OpenGLTutorialProject\OpenGLTutorialProject.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\02software\VS2013\VC\bin\CL.exe /c /I.\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Display.cpp main.cpp Shader.cpp stb_image.cpp
+         stb_image.cpp
+         Shader.cpp
+         main.cpp
+         Display.cpp
+         正在生成代码...
+         D:\02software\VS2013\VC\bin\CL.exe /c /I.\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt glad.c
+         glad.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\OpenGLTutorialProject.res" OpenGLTutorialProject.rc 
+       Link:
+         D:\02software\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\OPENGL学习\工程文件\绘制三角形\OpenGLTutorialProject\Debug\OpenGLTutorialProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\lib glew32.lib glew32s.lib SDL2.lib SDL2main.lib SDL2test.lib OpenGL32.lib glfw3.lib glfw3dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:MSVCRT.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\OPENGL学习\工程文件\绘制三角形\OpenGLTutorialProject\Debug\OpenGLTutorialProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\OPENGL学习\工程文件\绘制三角形\OpenGLTutorialProject\Debug\OpenGLTutorialProject.lib" /MACHINE:X86 Debug\OpenGLTutorialProject.res
+         Debug\Display.obj
+         Debug\glad.obj
+         Debug\main.obj
+         Debug\Shader.obj
+         Debug\stb_image.obj
+         OpenGLTutorialProject.vcxproj -> E:\OPENGL学习\工程文件\绘制三角形\OpenGLTutorialProject\Debug\OpenGLTutorialProject.exe
+     1>已完成生成项目“E:\OPENGL学习\工程文件\绘制三角形\OpenGLTutorialProject\OpenGLTutorialProject\OpenGLTutorialProject.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.96
